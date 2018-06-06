@@ -1,4 +1,4 @@
-# meetup_rnn
+# Predicting next word, providing a sentence
 In this rep I present a simple recurrent neural nwtwork based model to predict the next word in a sentence, basing on the knowledge of a book.
 
 Two possible implementation are available.
